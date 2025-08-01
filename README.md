@@ -10,3 +10,8 @@ This project as 9 types of algorithms namely <br>
 8. Logistic Regression, <br>
 9. Navies bayes classifier.<br>
 These are used for "Phishing url detection or Fraudelent url detection".  Gradient Boosting classifier as the highest accuracy and F1 score.<br>
+
+## Python version
+```
+python==3.8.0
+```
